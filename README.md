@@ -22,8 +22,8 @@
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-* 🌐 Portfolio: https://your-portfolio.vercel.app
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🌐 Portfolio: [https://your-portfolio.vercel.app](https://vishal-portfolio-eight-sage.vercel.app/)
+* 📧 Email: [(mailto:vishalvishnuvi@gmail.com)
 
 ---
 
