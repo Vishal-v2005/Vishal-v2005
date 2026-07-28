@@ -118,7 +118,7 @@ HTML • CSS • Bootstrap • JavaScript
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Vishal-v2005&theme=tokyonight"/>
 
 </p>
 
@@ -126,13 +126,13 @@ HTML • CSS • Bootstrap • JavaScript
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?Vishal-v2005&theme=tokyo-night"/>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vishal-v2005&theme=algolia&row=2&column=4"/>
 
 ---
 
@@ -150,7 +150,7 @@ HTML • CSS • Bootstrap • JavaScript
 
 # 📊 Developer Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal-v2005&theme=tokyonight"/>
 
 ---
 
