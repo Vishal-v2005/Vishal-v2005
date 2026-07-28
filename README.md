@@ -1,121 +1,191 @@
 <div align="center">
 
-# 🌸 こんにちは, I'm Vishal 👋
+# 👋 Hi, I'm Vishal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Python+Full+Stack+Developer;React+%7C+Django;Always+Leveling+Up+⚡;Welcome+to+My+Anime+World+🌸" />
+### 🚀 Frontend Developer | Python Full Stack Developer | Open Source Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7F00FF,50:00DBDE,100:00F5FF&text=ANIME%20MODE&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Python+Full+Stack+Developer;React+Developer;Django+Developer;Open+to+Work;Always+Learning+New+Technologies"/>
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+<a href="mailto:vishalvishnuvi@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 🌸 Character Profile
+# 💻 About Me
 
 ```yaml
-👤 Name        : Vishal
-🎓 Role        : Frontend & Python Full Stack Developer
-📍 Location    : Tamil Nadu, India
-⚡ Rank        : S-Class Developer
-🎯 Goal        : Software Engineer
-🔥 Status      : Training Arc
-🧠 Learning    : React • Django • FastAPI
+Name        : Vishal
+Role        : Frontend & Python Full Stack Developer
+Location    : Tamil Nadu, India
+Education   : B.E. Computer Science Engineering
+Focus       : React • Django • REST API
+Currently   : Learning FastAPI & Advanced React
+Goal        : Software Engineer
 ```
 
 ---
 
-# ⚔️ Skills
+# ⚙️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 AI Integrated Online Exam Monitoring System
+
+✔ React
+
+✔ Django
+
+✔ MySQL
+
+✔ Face Detection
+
+✔ Hand Gesture Control
+
+✔ AI Proctoring
+
+---
+
+## 💼 Smart Job Portal
+
+React • Django REST API • MySQL
+
+---
+
+## 📱 Instagram Clone
+
+React • Responsive UI
+
+---
+
+## 🍔 Online Food Ordering Website
+
+HTML • CSS • Bootstrap • JavaScript
+
+---
+
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,mysql"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma,postman"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🚀 Quests Completed
-
-🗡 AI Integrated Online Exam Monitoring
-
-🍜 Online Food Ordering Website
-
-📱 Instagram Clone
-
-💼 Smart Job Portal
-
----
-
-# 📊 Power Level
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌌 Chakra Energy
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-
----
-
-# 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia"/>
-
----
-
-# 🌠 Activity
+# 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 ---
 
-# 🎮 XP Dashboard
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+# 🌌 3D Contribution Graph
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+---
+
+# 📊 Developer Metrics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
 
 ---
 
-# 💬 Anime Quote
+# 🌐 Connect With Me
 
-> "Power comes in response to a need, not a desire."
+<p>
 
-— Goku
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://vishal-portfolio-eight-sage.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:vishalvishnuvi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-# 🎧 Background Music
+# 💡 Quote
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app)
+> "First, solve the problem. Then, write the code."
 
----
-
-# 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+— John Johnson
 
 ---
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00DBDE,50:7F00FF,100:FF00FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
