@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=Initializing+J.A.R.V.I.S...;Identity+Verified...;Vishal+Detected...;Frontend+Developer;Python+Full+Stack+Developer;React+%7C+Django+%7C+AI+Enthusiast" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B0000,50:FF0000,100:FFD700&text=IRON%20MAN%20MODE&fontColor=ffffff&animation=fadeIn&fontSize=45"/>
+
 
 </div>
 
